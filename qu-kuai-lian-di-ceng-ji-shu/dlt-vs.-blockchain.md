@@ -38,5 +38,9 @@ Blockchain是DLT的一种实现形式。
 
 {% embed url="https://www.bitorb.com/zh/campus/dlt-technology-blockchains-vs-dags-vs-tempo/" %}
 
+{% embed url="https://www.bbva.com/en/difference-dlt-blockchain/" %}
+
+
+
 
 
