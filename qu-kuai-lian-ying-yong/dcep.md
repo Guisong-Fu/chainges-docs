@@ -34,5 +34,9 @@ description: Digital Currency Electronic Payment
 
 ###  DCEP和BSN
 
-在上面的那篇HyperLedger发布的文章中我们也能看到DCEP应该是跑在BSN上面的。
+在上面的那篇HyperLedger发布的文章中我们也能看到DCEP应该是跑在BSN上面的。关于BSN，我在另一个section也有介绍。
+
+{% embed url="https://www.chainges.io/qu-kuai-lian-fu-wu-wang-luo-bsn/jieshao" %}
+
+
 
