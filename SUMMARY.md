@@ -25,7 +25,7 @@
 
 ## 区块链服务网络 BSN
 
-* [BSN 介绍](qu-kuai-lian-fu-wu-wang-luo-bsn/untitled.md)
+* [BSN 介绍](qu-kuai-lian-fu-wu-wang-luo-bsn/jieshao.md)
 * [BSN提供IPFS专网服务](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-ti-gong-ipfs-zhuan-wang-fu-wu.md)
 
 ## FISCO BCOS
