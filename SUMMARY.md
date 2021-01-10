@@ -71,7 +71,7 @@
 
 ## Network
 
-* [Untitled](network/untitled.md)
+* [Dynadot DNS setting for Gitbook](network/untitled.md)
 
 ## 微信小程序
 
