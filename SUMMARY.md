@@ -2,11 +2,10 @@
 
 * [链变 Chainges](README.md)
 
-## 区块链底层技术
+## 区块链技术
 
-* [DLT vs. Blockchain](qu-kuai-lian-di-ceng-ji-shu/dlt-vs.-blockchain.md)
-* [区块链技术与应用-北大肖臻教授](qu-kuai-lian-di-ceng-ji-shu/untitled.md)
-* [如何学习区块链](qu-kuai-lian-di-ceng-ji-shu/ru-he-xue-xi-qu-kuai-lian.md)
+* [DLT vs. Blockchain](qu-kuai-lian-ji-shu/dlt-vs.-blockchain.md)
+* [如何学习区块链](qu-kuai-lian-ji-shu/ru-he-xue-xi-qu-kuai-lian.md)
 
 ## DAML
 
