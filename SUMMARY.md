@@ -27,7 +27,9 @@
 
 * [BSN 介绍](qu-kuai-lian-fu-wu-wang-luo-bsn/jieshao.md)
 * [BSN提供IPFS专网服务](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-ti-gong-ipfs-zhuan-wang-fu-wu.md)
-* [Untitled](qu-kuai-lian-fu-wu-wang-luo-bsn/untitled.md)
+* [BSN白皮书笔记](qu-kuai-lian-fu-wu-wang-luo-bsn/untitled.md)
+* [BSN与区块链云服务（比如蚂蚁链）的区别](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-yu-qu-kuai-lian-yun-fu-wu-bi-ru-ma-yi-lian-de-qu-bie.md)
+* [BSN与DAML](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-yu-daml.md)
 
 ## FISCO BCOS
 
