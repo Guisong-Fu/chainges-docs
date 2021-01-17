@@ -67,3 +67,9 @@ DCEP并没有使用区块链技术，它用的是DLT分布式账本， 也就是
 
 另外，除了央行，财政部和发改委对DCEP的影响也是巨大的。不应该一说到各国的数字货币就只关注他们本国的央行。
 
+### _央行数字货币的格局态势与应用路径_
+
+{% embed url="https://video.chaindd.com/live?videokey=xhndIv" %}
+
+
+
