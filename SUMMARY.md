@@ -91,3 +91,7 @@
 * [原子性 Atomicity](other/untitled.md)
 * [Roblox 感想](other/roblox-gan-xiang.md)
 
+## Startup
+
+* [陆奇演讲：世界新格局下的创业创新机会](startup/lu-qi-yan-jiang-shi-jie-xin-ge-ju-xia-de-chuang-ye-chuang-xin-ji-hui.md)
+
