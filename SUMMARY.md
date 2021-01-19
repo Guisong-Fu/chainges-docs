@@ -7,6 +7,7 @@
 * [DLT vs. Blockchain](qu-kuai-lian-ji-shu/dlt-vs.-blockchain.md)
 * [如何学习区块链](qu-kuai-lian-ji-shu/ru-he-xue-xi-qu-kuai-lian.md)
 * [一个非常好的区块链的demo实例](qu-kuai-lian-ji-shu/yi-ge-fei-chang-hao-de-qu-kuai-lian-de-demo-shi-li.md)
+* [BSN 区块链常识培训](qu-kuai-lian-ji-shu/bsn-qu-kuai-lian-chang-shi-pei-xun.md)
 
 ## DAML
 
@@ -30,6 +31,7 @@
 * [BSN白皮书笔记](qu-kuai-lian-fu-wu-wang-luo-bsn/untitled.md)
 * [BSN与区块链云服务（比如蚂蚁链）的区别](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-yu-qu-kuai-lian-yun-fu-wu-bi-ru-ma-yi-lian-de-qu-bie.md)
 * [BSN与DAML](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-yu-daml.md)
+* [BSN往期培训回顾索引](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-wang-qi-pei-xun-hui-gu-suo-yin.md)
 
 ## FISCO BCOS
 
@@ -53,6 +55,7 @@
 ## 区块链应用
 
 * [DCEP 数字人民币](qu-kuai-lian-ying-yong/dcep.md)
+* [政务赋能](qu-kuai-lian-ying-yong/zheng-wu-fu-neng.md)
 
 ## DEFI
 
@@ -82,6 +85,10 @@
 
 * [Dynadot DNS setting for Gitbook](network/untitled.md)
 
+## Startup
+
+* [陆奇演讲：世界新格局下的创业创新机会](startup/lu-qi-yan-jiang-shi-jie-xin-ge-ju-xia-de-chuang-ye-chuang-xin-ji-hui.md)
+
 ## 微信小程序
 
 * [Untitled](wei-xin-xiao-cheng-xu/untitled.md)
@@ -90,8 +97,5 @@
 
 * [原子性 Atomicity](other/untitled.md)
 * [Roblox 感想](other/roblox-gan-xiang.md)
-
-## Startup
-
-* [陆奇演讲：世界新格局下的创业创新机会](startup/lu-qi-yan-jiang-shi-jie-xin-ge-ju-xia-de-chuang-ye-chuang-xin-ji-hui.md)
+* [KPMG 毕马威 2020中国领先金融科技企业50榜](other/kpmg-bi-ma-wei-2020-zhong-guo-ling-xian-jin-rong-ke-ji-qi-ye-50-bang.md)
 

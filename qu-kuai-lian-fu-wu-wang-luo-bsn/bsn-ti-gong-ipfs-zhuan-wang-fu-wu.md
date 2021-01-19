@@ -13,5 +13,11 @@ BSN推出了IPFS的专网服务，这个相当值得一试！ 如果BSN完美应
 
 {% embed url="https://www.chainnews.com/articles/901025418543.htm" %}
 
+IPFS浅谈及基于BSN的IPFS专网操作演示
+
+{% embed url="http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b0176979c260e2ae0.html" %}
+
+
+
 
 
