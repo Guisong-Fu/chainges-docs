@@ -71,5 +71,9 @@ DCEP并没有使用区块链技术，它用的是DLT分布式账本， 也就是
 
 {% embed url="https://video.chaindd.com/live?videokey=xhndIv" %}
 
+{% embed url="https://mp.weixin.qq.com/s/51-44pdMBteD68pYXxoDkQ" %}
+
+
+
 
 
