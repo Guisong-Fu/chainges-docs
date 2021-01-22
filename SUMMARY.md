@@ -90,6 +90,9 @@
 ## Startup
 
 * [陆奇演讲：世界新格局下的创业创新机会](startup/lu-qi-yan-jiang-shi-jie-xin-ge-ju-xia-de-chuang-ye-chuang-xin-ji-hui.md)
+* [熵减](startup/shang-jian.md)
+* [产品经理](startup/chan-pin-jing-li.md)
+* [投资轮次](startup/tou-zi-lun-ci.md)
 
 ## 微信小程序
 
