@@ -101,4 +101,5 @@
 * [Roblox 感想](other/roblox-gan-xiang.md)
 * [KPMG 毕马威 2020中国领先金融科技企业50榜](other/kpmg-bi-ma-wei-2020-zhong-guo-ling-xian-jin-rong-ke-ji-qi-ye-50-bang.md)
 * [Labster 太赞了！](other/labster-tai-zan-le.md)
+* [Pricer 公司](other/pricer-gong-si.md)
 
