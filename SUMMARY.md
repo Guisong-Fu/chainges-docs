@@ -58,6 +58,7 @@
 
 * [DCEP 数字人民币](qu-kuai-lian-ying-yong/dcep.md)
 * [政务赋能](qu-kuai-lian-ying-yong/zheng-wu-fu-neng.md)
+* [Untitled](qu-kuai-lian-ying-yong/untitled.md)
 
 ## DEFI
 
@@ -65,7 +66,7 @@
 * [预言机 BlockChain Oracle](defi/yu-yan-ji-blockchain-oracle.md)
 * [Uniswap & Sushiswap](defi/untitled-1.md)
 * [ERC20 Token Standard](defi/untitled-2.md)
-* [Untitled](defi/untitled-3.md)
+* [Libra & Libra 2.0](defi/untitled-3.md)
 
 ## Web 3.0
 
