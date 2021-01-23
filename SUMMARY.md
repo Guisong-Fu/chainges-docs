@@ -96,6 +96,7 @@
 * [熵减](startup/shang-jian.md)
 * [产品经理](startup/chan-pin-jing-li.md)
 * [投资轮次](startup/tou-zi-lun-ci.md)
+* [城市大脑](startup/cheng-shi-da-nao.md)
 
 ## 杂 Other <a id="other"></a>
 
