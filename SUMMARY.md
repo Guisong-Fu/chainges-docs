@@ -106,6 +106,7 @@
 * [边缘计算 Edge Computing](other/bian-yuan-ji-suan-edge-computing.md)
 * [AlphaFold](other/alphafold.md)
 * [智能云](other/zhi-neng-yun.md)
+* [债务 & 资产证券化（ABS）](other/zhai-wu-zi-chan-zheng-quan-hua-abs.md)
 
 ## 微信小程序
 
