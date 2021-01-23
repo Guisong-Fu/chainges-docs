@@ -95,10 +95,6 @@
 * [产品经理](startup/chan-pin-jing-li.md)
 * [投资轮次](startup/tou-zi-lun-ci.md)
 
-## 微信小程序
-
-* [Untitled](wei-xin-xiao-cheng-xu/untitled.md)
-
 ## 杂 Other <a id="other"></a>
 
 * [原子性 Atomicity](other/untitled.md)
@@ -108,4 +104,8 @@
 * [Pricer 公司](other/pricer-gong-si.md)
 * [边缘计算 Edge Computing](other/bian-yuan-ji-suan-edge-computing.md)
 * [AlphaFold](other/alphafold.md)
+
+## 微信小程序
+
+* [Untitled](wei-xin-xiao-cheng-xu/untitled.md)
 
