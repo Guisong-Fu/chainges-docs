@@ -2,7 +2,7 @@
 description: 'https://mask.io/'
 ---
 
-# Maskook
+# Maskbook
 
 {% embed url="https://mp.weixin.qq.com/s/tImNnC8nLR05s2afiTr\_kw" %}
 
