@@ -98,6 +98,7 @@
 * [产品经理](startup/chan-pin-jing-li.md)
 * [投资轮次](startup/tou-zi-lun-ci.md)
 * [城市大脑](startup/cheng-shi-da-nao.md)
+* [边缘计算 Edge Computing](startup/bian-yuan-ji-suan-edge-computing.md)
 
 ## 杂 Other <a id="other"></a>
 
@@ -106,7 +107,6 @@
 * [KPMG 毕马威 2020中国领先金融科技企业50榜](other/kpmg-bi-ma-wei-2020-zhong-guo-ling-xian-jin-rong-ke-ji-qi-ye-50-bang.md)
 * [Labster 太赞了！](other/labster-tai-zan-le.md)
 * [Pricer 公司](other/pricer-gong-si.md)
-* [边缘计算 Edge Computing](other/bian-yuan-ji-suan-edge-computing.md)
 * [AlphaFold](other/alphafold.md)
 * [智能云](other/zhi-neng-yun.md)
 * [债务 & 资产证券化（ABS）](other/zhai-wu-zi-chan-zheng-quan-hua-abs.md)
