@@ -64,6 +64,7 @@
 ## DEFI
 
 * [Odaily 三万字「2021」DeFi行业全景扫描](defi/odaily-san-wan-zi-2021defi-hang-ye-quan-jing-sao-miao.md)
+* [2021年即将发币的项目概览](defi/2021-nian-ji-jiang-fa-bi-de-xiang-mu-gai-lan.md)
 * [预言机 BlockChain Oracle](defi/yu-yan-ji-blockchain-oracle.md)
 * [Uniswap & Sushiswap](defi/untitled-1.md)
 * [ERC20 Token Standard](defi/untitled-2.md)
