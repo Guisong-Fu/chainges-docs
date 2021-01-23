@@ -105,6 +105,7 @@
 * [Pricer 公司](other/pricer-gong-si.md)
 * [边缘计算 Edge Computing](other/bian-yuan-ji-suan-edge-computing.md)
 * [AlphaFold](other/alphafold.md)
+* [智能云](other/zhi-neng-yun.md)
 
 ## 微信小程序
 
