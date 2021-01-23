@@ -72,7 +72,7 @@
 
 * [Web 1.0 vs. 2.0 vs. 3.0](web-3.0/web-1.0-vs.-web-2.0-vs.-web3.0.md)
 * [Web3 Foundation](web-3.0/web3-foundation.md)
-* [Maskbook](web-3.0/maskook.md)
+* [Maskbook](web-3.0/maskbook.md)
 
 ## 文献学习 Literature Study
 
