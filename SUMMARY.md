@@ -69,6 +69,7 @@
 * [Uniswap & Sushiswap](defi/untitled-1.md)
 * [ERC20 Token Standard](defi/untitled-2.md)
 * [Libra & Libra 2.0](defi/untitled-3.md)
+* [Polkadot](defi/polkadot.md)
 
 ## Web 3.0
 
