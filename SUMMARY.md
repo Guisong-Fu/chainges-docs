@@ -23,6 +23,7 @@
   * [Untitled](daml/daml-bian-xie/untitled-2.md)
   * [Untitled](daml/daml-bian-xie/untitled.md)
   * [Untitled](daml/daml-bian-xie/untitled-1.md)
+* [Triggers](daml/triggers.md)
 * [术语名词表Glossary：](daml/untitled-1.md)
 
 ## 区块链服务网络 BSN
