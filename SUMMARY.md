@@ -112,6 +112,7 @@
 * [智能云](other/zhi-neng-yun.md)
 * [债务 & 资产证券化（ABS）](other/zhai-wu-zi-chan-zheng-quan-hua-abs.md)
 * [RPA 机器人流程自动化](other/rpa-ji-qi-ren-liu-cheng-zi-dong-hua.md)
+* [碳中和 & 碳捕捉](other/tan-zhong-he-tan-bu-zhuo.md)
 
 ## 微信小程序
 
