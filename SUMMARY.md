@@ -95,6 +95,7 @@
 ## Startup
 
 * [陆奇演讲：世界新格局下的创业创新机会](startup/lu-qi-yan-jiang-shi-jie-xin-ge-ju-xia-de-chuang-ye-chuang-xin-ji-hui.md)
+* [ARK Invest - Big Ideas 2021](startup/ark-invest-big-ideas-2021.md)
 * [熵减](startup/shang-jian.md)
 * [产品经理](startup/chan-pin-jing-li.md)
 * [投资轮次](startup/tou-zi-lun-ci.md)
@@ -113,6 +114,7 @@
 * [债务 & 资产证券化（ABS）](other/zhai-wu-zi-chan-zheng-quan-hua-abs.md)
 * [RPA 机器人流程自动化](other/rpa-ji-qi-ren-liu-cheng-zi-dong-hua.md)
 * [碳中和 & 碳捕捉](other/tan-zhong-he-tan-bu-zhuo.md)
+* [Arm vs. x86](other/arm-vs.-x86.md)
 
 ## 微信小程序
 
