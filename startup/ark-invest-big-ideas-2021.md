@@ -38,7 +38,7 @@ description: Catherine Wood 2021年10大技术趋势预测
 
 ### 趋势五：未来人均电子钱包里有13万元
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 电子钱包要改变的是，纸币和信用卡这些？
 
