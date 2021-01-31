@@ -59,7 +59,7 @@
 
 * [DCEP 数字人民币](qu-kuai-lian-ying-yong/dcep.md)
 * [政务赋能](qu-kuai-lian-ying-yong/zheng-wu-fu-neng.md)
-* [Untitled](qu-kuai-lian-ying-yong/untitled.md)
+* [粤澳码互通](qu-kuai-lian-ying-yong/untitled.md)
 
 ## DEFI
 
@@ -115,8 +115,4 @@
 * [RPA 机器人流程自动化](other/rpa-ji-qi-ren-liu-cheng-zi-dong-hua.md)
 * [碳中和 & 碳捕捉](other/tan-zhong-he-tan-bu-zhuo.md)
 * [Arm vs. x86](other/arm-vs.-x86.md)
-
-## 微信小程序
-
-* [Untitled](wei-xin-xiao-cheng-xu/untitled.md)
 
