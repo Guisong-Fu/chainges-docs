@@ -115,4 +115,5 @@
 * [RPA 机器人流程自动化](other/rpa-ji-qi-ren-liu-cheng-zi-dong-hua.md)
 * [碳中和 & 碳捕捉](other/tan-zhong-he-tan-bu-zhuo.md)
 * [Arm vs. x86](other/arm-vs.-x86.md)
+* [办公室网络设置](other/ban-gong-shi-wang-luo-she-zhi.md)
 
