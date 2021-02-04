@@ -9,6 +9,7 @@
 * [一个非常好的区块链的demo实例](qu-kuai-lian-ji-shu/yi-ge-fei-chang-hao-de-qu-kuai-lian-de-demo-shi-li.md)
 * [BSN 区块链常识培训](qu-kuai-lian-ji-shu/bsn-qu-kuai-lian-chang-shi-pei-xun.md)
 * [FISCO BCOS的区块链技能树修炼指南](qu-kuai-lian-ji-shu/fisco-bcos-de-qu-kuai-lian-ji-neng-shu-xiu-lian-zhi-nan.md)
+* [Blockchain Platforms Comparisons](qu-kuai-lian-ji-shu/blockchain-platforms-comparisons.md)
 
 ## DAML
 
@@ -66,11 +67,13 @@
 * [Odaily 三万字「2021」DeFi行业全景扫描](defi/odaily-san-wan-zi-2021defi-hang-ye-quan-jing-sao-miao.md)
 * [2021年即将发币的项目概览](defi/2021-nian-ji-jiang-fa-bi-de-xiang-mu-gai-lan.md)
 * [预言机 BlockChain Oracle](defi/yu-yan-ji-blockchain-oracle.md)
+* [DEX](defi/dex.md)
 * [Uniswap & Sushiswap](defi/untitled-1.md)
 * [ERC20 Token Standard](defi/untitled-2.md)
 * [Libra & Libra 2.0](defi/untitled-3.md)
 * [Polkadot](defi/polkadot.md)
-* [NFT](defi/nft.md)
+* [NFT 非同质化代币](defi/nft.md)
+* [中心化金融 对应的 去中心化金融](defi/zhong-xin-hua-jin-rong-dui-ying-de-qu-zhong-xin-hua-jin-rong.md)
 
 ## Web 3.0
 
@@ -103,6 +106,7 @@
 * [城市大脑](startup/cheng-shi-da-nao.md)
 * [边缘计算 Edge Computing](startup/bian-yuan-ji-suan-edge-computing.md)
 * [涛思数据 TDengine](startup/tao-si-shu-ju-tdengine.md)
+* [Authing 身份云](startup/authing-shen-fen-yun.md)
 
 ## 杂 Other <a id="other"></a>
 

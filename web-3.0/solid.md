@@ -6,11 +6,13 @@
 
 用户可以自己运行一个server保管数据，也可以用在Solid Community上找别人托管。
 
+将互联网用户数据纳入多个“容器”，实现用户对数据归属的精确控制和自主权。
+
 {% hint style="info" %}
 这不是和IPFS很像吗？ 
 {% endhint %}
 
-底层是docker和pod？
+
 
 ## 相关链接：
 
