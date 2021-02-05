@@ -108,6 +108,7 @@
 * [边缘计算 Edge Computing](startup/bian-yuan-ji-suan-edge-computing.md)
 * [涛思数据 TDengine](startup/tao-si-shu-ju-tdengine.md)
 * [Authing 身份云](startup/authing-shen-fen-yun.md)
+* [读人研究报告](startup/du-ren-yan-jiu-bao-gao.md)
 
 ## BIG DATA
 
