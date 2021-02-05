@@ -4,5 +4,11 @@
 
 {% embed url="https://www.youtube.com/watch?v=1br20axMBxw&ab\_channel=AWSOnlineTechTalks" %}
 
+{% embed url="https://www.youtube.com/watch?v=x-AjS-WuF2Q&ab\_channel=AWSOnlineTechTalks" %}
+
+
+
+{% embed url="https://track-and-trace-blockchain.workshop.aws/" %}
+
 
 
