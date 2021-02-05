@@ -74,6 +74,7 @@
 * [Polkadot](defi/polkadot.md)
 * [NFT 非同质化代币](defi/nft.md)
 * [中心化金融 对应的 去中心化金融](defi/zhong-xin-hua-jin-rong-dui-ying-de-qu-zhong-xin-hua-jin-rong.md)
+* [DogeCoin](defi/dogecoin.md)
 
 ## Web 3.0
 
