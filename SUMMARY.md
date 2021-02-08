@@ -106,6 +106,7 @@
 * [涛思数据 TDengine](startup/tao-si-shu-ju-tdengine.md)
 * [Authing 身份云](startup/authing-shen-fen-yun.md)
 * [读人研究报告](startup/du-ren-yan-jiu-bao-gao.md)
+* [用户凭什么为你的产品付费](startup/yong-hu-ping-shen-me-wei-ni-de-chan-pin-fu-fei.md)
 
 ## BIG DATA
 
@@ -137,4 +138,5 @@
 * [碳中和 & 碳捕捉](other/tan-zhong-he-tan-bu-zhuo.md)
 * [Arm vs. x86](other/arm-vs.-x86.md)
 * [办公室网络设置](other/ban-gong-shi-wang-luo-she-zhi.md)
+* [范式转换](other/fan-shi-zhuan-huan.md)
 
