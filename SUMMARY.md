@@ -94,10 +94,6 @@
 * [AWS QLDB](cloud/aws-qldb.md)
 * [Cloud Native](cloud/cloud-native.md)
 
-## Network
-
-* [Dynadot DNS setting for Gitbook](network/untitled.md)
-
 ## Startup
 
 * [陆奇演讲：世界新格局下的创业创新机会](startup/lu-qi-yan-jiang-shi-jie-xin-ge-ju-xia-de-chuang-ye-chuang-xin-ji-hui.md)
@@ -121,6 +117,11 @@
 * [AR with ML](augmented-reality/ar-with-ml.md)
 * [Do I need Unity for building IOS Game? Or SpriteKit?](augmented-reality/do-i-need-unity-for-building-ios-game-or-spritekit.md)
 * [One AR Game idea](augmented-reality/one-ar-game-idea.md)
+
+## Network
+
+* [Dynadot DNS setting for Gitbook](network/untitled.md)
+* [交换机和路由器](network/jiao-huan-ji-he-lu-you-qi.md)
 
 ## 杂 Other <a id="other"></a>
 
