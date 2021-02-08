@@ -61,6 +61,7 @@
 * [DCEP 数字人民币](qu-kuai-lian-ying-yong/dcep.md)
 * [政务赋能](qu-kuai-lian-ying-yong/zheng-wu-fu-neng.md)
 * [粤澳码互通](qu-kuai-lian-ying-yong/untitled.md)
+* [共享单车治理](qu-kuai-lian-ying-yong/gong-xiang-dan-che-zhi-li.md)
 
 ## DEFI
 
