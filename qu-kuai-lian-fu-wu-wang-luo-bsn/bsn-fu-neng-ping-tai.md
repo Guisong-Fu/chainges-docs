@@ -38,3 +38,19 @@ Q： 这边的Software Cost是0。所以这个是免费使用的吗？ 所以相
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
+## 官方信息整理：
+
+1、使用AWS Marketplace上的BSN赋能平台是否还收取BSN使用费用？还是只需要支付EC2的费用？[http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b5e355330d4.html](http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b5e355330d4.html)
+
+2、如果使用AWS Marketplace上的赋能平台，是否可以将自建的独立门户部署在其他云服务器上？[http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b60352730df.html](http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b60352730df.html)
+
+3、BSN国内官方门户的跨链服务商用版本与测试网版本的区别是什么？[http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b643aba30fa.html](http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b643aba30fa.html)
+
+4、BSN提供的Fabric-secp256r1通用数据链码包，里面获取数据（get）和 获取历史数据（getHistory）两个接口返回数据有什么差异？[http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b6527c4310a.html](http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01775b6527c4310a.html)
+
+培训视频链接:
+
+{% embed url="http://kb.bsnbase.com/webdoc/view/Pub2c908ad371c6396b01776ff3a7ae5c01.html" %}
+
+课程内容: 1、什么是BSN赋能平台 2、BSN赋能平台能做什么 3、为什么要基于AWS部署BSN赋能平台 4、在AWS上如何使用赋能平台 5、BSN赋能平台使用了AWS哪些服务 6、部署安装的常见问题
+
