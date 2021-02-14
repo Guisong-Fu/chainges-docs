@@ -10,6 +10,7 @@
 * [BSN 区块链常识培训](qu-kuai-lian-ji-shu/bsn-qu-kuai-lian-chang-shi-pei-xun.md)
 * [FISCO BCOS的区块链技能树修炼指南](qu-kuai-lian-ji-shu/fisco-bcos-de-qu-kuai-lian-ji-neng-shu-xiu-lian-zhi-nan.md)
 * [Blockchain Platforms Comparisons](qu-kuai-lian-ji-shu/blockchain-platforms-comparisons.md)
+* [区块链技术学习路线图](qu-kuai-lian-ji-shu/qu-kuai-lian-ji-shu-xue-xi-lu-xian-tu.md)
 
 ## DAML
 
