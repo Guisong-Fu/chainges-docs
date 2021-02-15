@@ -78,6 +78,7 @@
 * [NFT 非同质化代币](defi/nft.md)
 * [中心化金融 对应的 去中心化金融](defi/zhong-xin-hua-jin-rong-dui-ying-de-qu-zhong-xin-hua-jin-rong.md)
 * [DogeCoin](defi/dogecoin.md)
+* [矿场和矿机](defi/kuang-chang-he-kuang-ji.md)
 
 ## Web 3.0
 
@@ -109,6 +110,7 @@
 * [Authing 身份云](startup/authing-shen-fen-yun.md)
 * [读人研究报告](startup/du-ren-yan-jiu-bao-gao.md)
 * [用户凭什么为你的产品付费](startup/yong-hu-ping-shen-me-wei-ni-de-chan-pin-fu-fei.md)
+* [AI & Blockchain](startup/ai-and-blockchain.md)
 
 ## BIG DATA
 
