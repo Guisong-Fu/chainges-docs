@@ -128,6 +128,7 @@
 
 * [Dynadot DNS setting for Gitbook](network/untitled.md)
 * [交换机和路由器](network/jiao-huan-ji-he-lu-you-qi.md)
+* [IPv4 vs IPv6](network/ipv4-vs-ipv6.md)
 
 ## 杂 Other <a id="other"></a>
 
