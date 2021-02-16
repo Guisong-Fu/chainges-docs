@@ -132,6 +132,7 @@
 * [TCP vs. UDP](network/tcp-vs.-udp.md)
 * [OSI Model](network/osi-model.md)
 * [Source/Destination Port](network/source-destination-port.md)
+* [DHCP](network/dhcp.md)
 
 ## 杂 Other <a id="other"></a>
 
