@@ -6,29 +6,29 @@
 
 {% embed url="https://www.youtube.com/watch?v=Vdc8TCESIg8&ab\_channel=PieterExplainsTech" %}
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 UDP -&gt; Fire and Forget Protocol
 
 因为UDP不用建立连接等等，所以UDP is faster than TCP
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
  
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 ![](../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 当需要确保信息完整的时候，要用TCP，比如发信息啊，下载文件等等。但当需要更快的速度的时候，可以用UDP，比如在线看电影（本机会做一部分的cache，排序等等），网络电话等等
 
