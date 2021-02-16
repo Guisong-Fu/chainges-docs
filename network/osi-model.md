@@ -4,15 +4,15 @@ description: Open Systems Interconnection Model
 
 # OSI Model
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 我们重点关注其中的5层：
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 为什么需要这么多层？
 
@@ -20,7 +20,7 @@ description: Open Systems Interconnection Model
 
 举例：物理层来保障这段0-1信号是有效信号，不是噪声；当信号到达链路层的时候，链路层来确认这段信号是发给当前主机的当前网卡的，也就是说当到达链路层的时候，主机知道自己是可以接收并处理这段信号的；当信号来到网络层的时候，通过网络层的协议来确认这段信号是由本机进行处理还是应该进行路由转发，也就说当信号到达传输层的时候，本机就已经可以确认这段信号是发给本机的，并且可以由本级上的某个服务进行处理；当信号来到传输层，通过传输层的协议就可以确认处理这段信号的服务是谁，并且能进行一些其他操作，比如通过TCP可以确认信号是否完整，比如它拿到的是http请求的一个网络包，那TCP协议可以拿到所有的这一个请求的网络包并把信号复原之后交给应用层进行处理。
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 所以每一层都有特殊的header的
 
