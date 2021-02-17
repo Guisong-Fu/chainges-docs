@@ -80,6 +80,7 @@
 * [中心化金融 对应的 去中心化金融](defi/zhong-xin-hua-jin-rong-dui-ying-de-qu-zhong-xin-hua-jin-rong.md)
 * [DogeCoin](defi/dogecoin.md)
 * [矿场和矿机](defi/kuang-chang-he-kuang-ji.md)
+* [Tornado Cash](defi/tornado-cash.md)
 
 ## Web 3.0
 
@@ -115,7 +116,7 @@
 
 ## BIG DATA
 
-* [Untitled](big-data/untitled.md)
+* [Data Mesh](big-data/untitled.md)
 
 ## Augmented Reality
 
