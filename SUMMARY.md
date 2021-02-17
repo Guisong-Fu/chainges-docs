@@ -115,6 +115,7 @@
 * [AI & Blockchain](startup/ai-and-blockchain.md)
 * [提供数据分析工具或者服务](startup/ti-gong-shu-ju-fen-xi-gong-ju-huo-zhe-fu-wu.md)
 * [美好生活](startup/mei-hao-sheng-huo.md)
+* [极光](startup/ji-guang.md)
 
 ## BIG DATA
 
