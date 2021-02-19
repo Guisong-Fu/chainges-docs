@@ -81,6 +81,7 @@
 * [DogeCoin](defi/dogecoin.md)
 * [矿场和矿机](defi/kuang-chang-he-kuang-ji.md)
 * [Tornado Cash](defi/tornado-cash.md)
+* [Mirror](defi/mirror.md)
 
 ## Web 3.0
 

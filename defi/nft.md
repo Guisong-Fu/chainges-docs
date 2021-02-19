@@ -4,6 +4,34 @@ description: Non-Fungible Token
 
 # NFT 非同质化代币
 
+## What is NFT?
+
+{% embed url="https://www.youtube.com/watch?v=XCfUOQDBicg&ab\_channel=BitBoyCrypto" %}
+
+Fungible means **interchangeable**, just like dollar, or bitcoin, every dollar is the same and every bitcoin is the same.
+
+But there is something unique, and that unique thing is non-fungible.
+
+我的理解是，我们可以用token tag上独一无二的“物品”，比如cryptokitty，art，游戏装备。但FT（比如比特币），我们可以拆分，只花0.5个比特币比如。但NFT不能拆分，NFT只有唯一对应的一枚，每一个合约地址上只能产生一枚NFT的代币，所以当我们购买某一个收藏品的时候，我们获得的是这个NFT对应的合约地址（是吗？要再double check一下）。
+
+每一支疫苗也可以对应一个NFT的token
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% embed url="https://www.dapperlabs.com/" %}
 
 {% embed url="https://mp.weixin.qq.com/s/TXrBg6HIaeqZkD-zkgMz4g" %}
