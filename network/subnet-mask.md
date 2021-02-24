@@ -1,7 +1,5 @@
 ---
-description: >-
-  Subnet Mask is used to find out the Network ID(so also to know the subnet
-  range). Probably need to check more!
+description: 用来计算网段，要不要把一个subnet再分成几个更小的subnet。
 ---
 
 # Subnet Mask
