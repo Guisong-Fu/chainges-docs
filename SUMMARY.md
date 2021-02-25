@@ -84,6 +84,7 @@
 * [Tornado Cash](defi/tornado-cash.md)
 * [Mirror](defi/mirror.md)
 * [SwapAll](defi/swapall.md)
+* [DFINITY](defi/dfinity.md)
 
 ## Web 3.0
 
