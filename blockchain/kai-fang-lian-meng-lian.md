@@ -8,6 +8,10 @@ description: 到时候还要再研究一下，没太明白
 
 {% embed url="https://mp.weixin.qq.com/s/QIZnIni2zTykfJZry9nBpw" %}
 
+{% embed url="https://mp.weixin.qq.com/s/kUoRFVMjAd9airwAed3FKA" %}
+
+
+
 **开放联盟链在技术结构上实际上它比较类似于、更贴近于传统联盟链，是不支持 Token 在用户账户间的转账流通，区块链节点是许可加入的，它不像公链网络。**实际上公链网络的话，任何人或者一个组织都可以去下载节点程序，然后部署安装，接入到网络里面去。而且开放联盟链，因为在国内推出的话，一般来说会禁用这种账户间的这种 P2P 的这种虚拟币转账。
 
 {% hint style="danger" %}
