@@ -16,22 +16,6 @@ But there is something unique, and that unique thing is non-fungible.
 
 每一支疫苗也可以对应一个NFT的token
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {% embed url="https://www.dapperlabs.com/" %}
 
 {% embed url="https://mp.weixin.qq.com/s/TXrBg6HIaeqZkD-zkgMz4g" %}
