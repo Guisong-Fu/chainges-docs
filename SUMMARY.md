@@ -87,6 +87,7 @@
 * [SwapAll](blockchain/swapall.md)
 * [DFINITY](blockchain/dfinity.md)
 * [开放联盟链](blockchain/kai-fang-lian-meng-lian.md)
+* [Bridge & Layer & Oracle](blockchain/bridge-and-layer-and-oracle.md)
 
 ## Web 3.0
 
