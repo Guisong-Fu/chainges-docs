@@ -38,9 +38,9 @@
 * [BSN往期培训回顾索引](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-wang-qi-pei-xun-hui-gu-suo-yin.md)
 * [BSN赋能平台](qu-kuai-lian-fu-wu-wang-luo-bsn/bsn-fu-neng-ping-tai.md)
 
-## FISCO BCOS
+## Flow
 
-* [Untitled](fisco-bcos/untitled.md)
+* [index](flow/untitled.md)
 
 ## 分布式文件系统 DFS <a id="dfs"></a>
 
