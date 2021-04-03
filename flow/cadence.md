@@ -1,4 +1,4 @@
-# index
+# Cadence Study
 
 > Questions: How to implement "function" in Cadence? By function, I mean, like random number and etc.
 
