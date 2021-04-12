@@ -1,5 +1,5 @@
 ---
-description: 区块链应用开发，当前项目是开发一套基于区块链技术的供应链系统。
+description: Building NFT marketplace for eSports and Gaming companies
 ---
 
 # 链变 Chainges
