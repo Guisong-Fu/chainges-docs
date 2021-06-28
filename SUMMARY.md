@@ -41,6 +41,7 @@
 ## Flow
 
 * [Cadence Study](flow/cadence.md)
+* [在Cadence中我该如何查询msg.sender?Capabilities!](flow/zai-cadence-zhong-wo-gai-ru-he-cha-xun-msg.sendercapabilities.md)
 
 ## 分布式文件系统 DFS <a id="dfs"></a>
 
